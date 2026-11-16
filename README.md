@@ -31,6 +31,7 @@ Every case tests the same four skills. Q1 identifies which parts touch OUT. Q2 a
 - [Evaluation protocol, difficulty criteria and ablation](docs/protocol.md)
 - [All 16 proposal references, reading notes and one additional related benchmark](docs/references.md)
 - [Circuit catalog and scoring key](team/catalog.md) · [full-precision keys](team/keys.json)
+- [Pilot run of Claude Fable 5.2 on all 12 cases](team/runs/claude-fable-5-2_max_cc-subagent/README.md), collected through Claude Code subagents
 - [Original proposal](docs/source/proposal.pdf) · [course requirements](docs/source/course-project-requirements.png)
 - [Earlier DC voltage-divider warm-up](warmup/START_HERE.md), outside the 12 matched cases
 - [Smaller-junction schematics](ablations), one optional visual control per base circuit

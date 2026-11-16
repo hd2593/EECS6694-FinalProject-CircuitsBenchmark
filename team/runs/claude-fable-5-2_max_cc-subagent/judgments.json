@@ -1,0 +1,102 @@
+{
+  "T005": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R4 (X-OUT) shorts R4 at the edge; 4.5 V then 4.0 V"
+  },
+  "T008": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground holds X and so OUT at 0 V, no jump; 0 V then 1.33 V"
+  },
+  "T011": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground pins X at 0 V at the edge; 2.67 V then 6.22 V"
+  },
+  "T012": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R4 (X-OUT) shorts R4 at the edge; 4.5 V then 4.0 V"
+  },
+  "T021": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground holds X at 0 V at the edge; 1.38 V then 3.45 V"
+  },
+  "T022": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from IN to X carries the 9 V step onto X; 5.73 V then 2.87 V"
+  },
+  "T028": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R3 (X-OUT) shorts R3 at the edge; 3.2 V then 2.0 V"
+  },
+  "T032": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground holds X at 0 V at the edge; 2.57 V then 3.6 V"
+  },
+  "T034": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from IN to X feeds the 9 V step onto X; 5.73 V then 2.87 V"
+  },
+  "T037": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from IN to X passes the 9 V edge to X; 6 V then 3 V"
+  },
+  "T040": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground holds X at 0 V at the edge; 2.67 V then 6.22 V"
+  },
+  "T048": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R4 (X-OUT) ties OUT to X at the edge; 4.15 V then 4.8 V"
+  },
+  "T051": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from IN to X carries the 9 V step onto X and OUT; 9 V then 6.37 V"
+  },
+  "T054": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from IN to X bypasses R3 at the edge; 4.31 V then 3.64 V"
+  },
+  "T057": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground holds X at 0 V at the edge; 2.57 V then 3.6 V"
+  },
+  "T062": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R3 (IN-X) ties X to IN at the edge; 4.31 V then 3.64 V"
+  },
+  "T066": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R2 (X-OUT) shorts R2 at the edge; 3.2 V then 4.21 V"
+  },
+  "T071": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground holds X and so OUT at 0 V, no jump; 0 V then 1.33 V"
+  },
+  "T075": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R4 (X-OUT) ties OUT to X at the edge; 4.15 V then 4.8 V"
+  },
+  "T078": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from IN to X carries the 9 V step onto X and OUT; 9 V then 6.37 V"
+  },
+  "T080": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from IN to X passes the 9 V step to X; 6 V then 3 V"
+  },
+  "T086": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 from X to ground holds X at 0 V at the edge; 1.385 V then 3.447 V"
+  },
+  "T088": {
+    "validity": "valid",
+    "validity_note": "reader: the unmatched phrase is 'R3 and R1 form a 7 kΩ series path from IN to X', a correct statement about the series pair and not a claim about R1 alone"
+  },
+  "T093": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R2 (X-OUT) shorts R2 at the edge; 3.2 V then 4.21 V"
+  },
+  "T095": {
+    "explains": true,
+    "note": "explanation ties the direction to C1's placement: C1 across R3 ties OUT to X at the edge; 3.2 V then 2 V"
+  }
+}
